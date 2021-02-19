@@ -25,7 +25,7 @@
     <!-- REPLACE `TTS_API_KEY_HERE` with Watson Text to Speech service API Key-->
     <string name="TTS_apikey">snTjrwh81ivAzXuLB3-kbvlP_520qaBb_K0Ou6sBUMjZ</string>
     
-    <!-- REPLACE the URL with TTS URL provided in the service credentials -->
+    <!-- REPLACE the URL with TTS URL provided in the service credentials fdfs -->
     <string name="TTS_url">https://api.us-south.text-to-speech.watson.cloud.ibm.com/instances/8d827279-77c1-471f-a9d8-1973f1593ddc</string>
 
 </resources>
